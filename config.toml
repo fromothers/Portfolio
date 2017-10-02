@@ -1,0 +1,69 @@
+baseURL = "https://www.leejamesrobinson.com"
+title = "Lee Robinson"
+theme = "minimo"
+
+disqusShortname = ""
+Paginate = 15
+
+preserveTaxonomyNames = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+[params]
+  name = "Lee Robinson"
+  author = "Lee Robinson"
+  description = "I'm a Software Engineer based out of Des Moines, IA."
+  images = ["http://www.leejamesrobinson.com/img/avatar.jpg"]
+  email = "lrobinson2011@gmail.com"
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "Lee Robinson"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  titleSeparator = "-"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Lee Robinson"
+
+[author.social]
+  email = "lrobinson2011@gmail.com"
+  facebook = "LeeJamesRobinson"
+  github = "leerob"
+  instagram = "leeerob"
+  twitter = "leeerob"
+  linkedin = "leejamesrobinson"
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "Resume"
+  weight = -70
+  identifier = "resume"
+  url = "/LeeRobinson.pdf"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
