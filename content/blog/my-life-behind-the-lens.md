@@ -9,6 +9,8 @@ keywords:
   - Lee Robinson
 categories:
   - videography
+aliases:
+    - /blog/my-life-behind-the-lens.html
 ---
 ![Lee Robinson](/img/behind-the-lens.jpg)
 

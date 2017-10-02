@@ -16,7 +16,7 @@ categories:
 Recently my writing itch has been in full force and I found myself producing more content than ever. My portfolio (hosted on [GitHub Pages](https://pages.github.com/)) was just a static website primarily used to display my resume and work experience. The blog portion was never really a focus and thus I hadn't spent much time on it. That's where Hugo came in.
 
 ### What is Hugo?
-[Hugo](http://gohugo.io/) describes itself as "the world’s fastest framework for building websites". Based on my experience with another static site generator called [Jekyll](https://jekyllrb.com/), I would have to agree. At <1 ms per page, the average site builds in less than a second. Hugo allows me to write my blog posts in [Markdown](https://en.wikipedia.org/wiki/Markdown) and have them compiled to create a static website. It also includes pre-made templates for common add-ons like: SEO (Search Engine Optimization), comments, analytics, and more.
+[Hugo](http://gohugo.io/) describes itself as "the world’s fastest framework for building websites". Based on my experience with another static site generator called [Jekyll](https://jekyllrb.com/), I would have to agree. At <1 ms per page, the average site builds in less than a second. Hugo allows me to write my blog posts in [Markdown](https://en.wikipedia.org/wiki/Markdown) and have them compiled to create a static website. It also includes pre-made templates for common add-ons like SEO (Search Engine Optimization), comments, analytics, and more.
 
 ### Migrating Content
 All of my previous blog posts were written in HTML. I utilized [this wonderful tool](https://domchristie.github.io/to-markdown/) to easily convert these pages into Markdown. Once I had refined how things looked, I needed to add a ["front matter"](https://gohugo.io/content-management/front-matter/) to the post so Hugo knew how to interpret it. Here's the front matter for this post: 
@@ -49,7 +49,7 @@ Most of these parameters are self-explanatory. By populating these it creates th
 
 ### Increasing Performance
 
-Another motivation for re-writing my portfolio was to decrease the page load time and improve the user experience. I really wanted to strip back the flashy appearance and focus on a minimal design that was typography focused. Previously, I was utilizing [Bootstrap](https://v4-alpha.getbootstrap.com/) for the structure of my website. Along with that, it required a myraid of libraries and additions including: jQuery, Font Awesome, Prism (syntax highlighting), and more. These dependences were increasing the size of my portfolio and decreasing the performance. By switching to Hugo, I was able to remove this bloat. Along with that, I also:
+Another motivation for re-writing my portfolio was to decrease the page load time and improve the user experience. I really wanted to strip back the flashy appearance and focus on a minimal design that was typography focused. Previously, I was utilizing [Bootstrap](https://v4-alpha.getbootstrap.com/) for the structure of my website. Along with that, it required a myriad of libraries and additions including jQuery, Font Awesome, Prism (syntax highlighting), and more. These dependencies were increasing the size of my portfolio and decreasing the performance. By switching to Hugo, I was able to remove this bloat. Along with that, I also:
 
 - Removed Google Analytics in favor of CloudFlare's analytics
 - Dropped legacy support for IE8

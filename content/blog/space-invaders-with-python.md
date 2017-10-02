@@ -9,6 +9,8 @@ keywords:
   - PyGame
 categories:
   - code
+aliases:
+    - /blog/space-invaders-with-python.html
 ---
 ![Space Invaders](/img/space-invaders.png)
 

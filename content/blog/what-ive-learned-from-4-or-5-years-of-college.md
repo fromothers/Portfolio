@@ -9,6 +9,8 @@ keywords:
   - Lee Robinson
 categories:
   - life
+aliases:
+    - /blog/what-ive-learned-from-4-or-5-years-of-college.html
 ---
 
 ![](/img/isu.jpg)

@@ -9,6 +9,8 @@ keywords:
   - Iowa Nightlife
 categories:
   - life
+aliases:
+  - /blog/best-bars-in-des-moines.html
 ---
 
 ![Des Moines, Iowa](/img/des-moines.jpg)

@@ -9,6 +9,8 @@ keywords:
   - Foursquare API
 categories:
   - code
+aliases:
+    - /blog/google-yelp-foursquare-apis-python.html
 ---
 
 Data is a beautiful thing. Especially when we can sort, organize, and manipulate it to our needs. In this post, I’m going to walk you through harnessing the power of the Google Places, Yelp, and Foursquare APIs to create a list of businesses in your area.

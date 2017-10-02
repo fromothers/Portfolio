@@ -9,6 +9,8 @@ keywords:
   - Hiking
 categories:
   - life
+aliases:
+    - /blog/10-days-in-norway.html
 ---
 
 ![Norway](/img/norway.png)

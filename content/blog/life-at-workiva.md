@@ -9,6 +9,8 @@ keywords:
   - Ames, IA
 categories:
   - life
+aliases:
+  - /blog/life-at-workiva.html
 ---
 
 ![Workiva](/img/Workiva/front.jpg)

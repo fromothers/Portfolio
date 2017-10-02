@@ -9,6 +9,8 @@ keywords:
   - Lee Robinson
 categories:
   - code
+aliases:
+    - /blog/beginners-guide-to-the-programming-portfolio.html
 ---
 
 ![Programming Portfolio](/img/code.jpg)
