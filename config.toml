@@ -11,7 +11,6 @@ disablePathToLower = true
 
 [params]
   name = "Lee Robinson"
-  author = "Lee Robinson"
   description = "I'm a Software Engineer based out of Des Moines, IA."
   images = ["http://www.leejamesrobinson.com/img/avatar.jpg"]
   email = "lrobinson2011@gmail.com"
@@ -35,9 +34,6 @@ disablePathToLower = true
 [taxonomies]
   category = "categories"
   tag = "tags"
-
-[social]
-  facebook = ""
 
 [author]
   name = "Lee Robinson"
