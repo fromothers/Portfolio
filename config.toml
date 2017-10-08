@@ -2,7 +2,7 @@ baseURL = "https://www.leejamesrobinson.com"
 title = "Lee Robinson"
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "leerob"
 Paginate = 15
 
 preserveTaxonomyNames = true
