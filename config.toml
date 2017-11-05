@@ -11,7 +11,7 @@ disablePathToLower = true
 
 [params]
   name = "Lee Robinson"
-  description = "I'm a Software Engineer based out of Des Moines, IA."
+  description = "Software Engineer & Videographer living in San Francisco."
   images = ["http://www.leejamesrobinson.com/img/avatar.jpg"]
   email = "lrobinson2011@gmail.com"
   dateFormat = "2006, Jan 2"
