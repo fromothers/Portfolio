@@ -4,7 +4,7 @@ comments: false
 menu: main
 weight: -170
 ---
-![Lee Robinson](/img/reinebringen.jpg)
+![Lee Robinson](/img/reinebringen-summit.jpg)
 
 I'm a 24-year-old programmer currently living in San Francisco. I'm a proud alum of Iowa State University where I received my Bachelor's Degree in Computer Engineering. When I'm not working remotely for Workiva, I work as a freelance photographer/videographer. I'm also what some would call a "music nerd" and enjoy playing a variety of instruments and rocking the occasional karaoke session.
 
