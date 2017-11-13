@@ -16,7 +16,7 @@ It's inevitable that some users of your application will have slow connections. 
 
 ### Skeleton Screens
 
-Skeleton screens build anticipation for the content that is going to appear whereas loading spinners (and progress bars) put the focus on the wait time that the user has to endure. Apple has agreed with this idea enough to incorporate skeleton screens into their [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/). They recommend displaying an outline of the initial application without text or any elements that will change. This can improve the feel of any action taking longer than a few hundred milliseconds.
+Skeleton screens build anticipation for the content that is going to appear whereas loading spinners (and progress bars) put the focus on the wait time that the user has to endure. Apple has agreed with this idea enough to incorporate skeleton screens into their [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/launch-screen/). They recommend displaying an outline of the initial application without text or any elements that will change. This can improve the feel of any action taking longer than a few hundred milliseconds.
 
 
 ### Examples
