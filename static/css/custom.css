@@ -22,6 +22,14 @@ p {
     color: #111;
 }
 
+p code, li code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    background-color: rgba(27,31,35,0.05);
+    border-radius: 3px;
+}
+
 .comments-container #disqus_thread:before, .entry+.list-container:before, .entry-header:after, .entry-nav-links:before, .footer:before, .prev-entry~.next-entry:before, .site-header:after {
     border-bottom: .11111em solid #6fb8f3;
 }

@@ -361,7 +361,9 @@ Each `Todo` object can be initialized with some content and has a completed stat
 
 ##### /stores/
 
-We now have some actions to dispatch. Next, we need a store to contain our application's data. For this example, we only need one store. **Note**: For larger applications, you will generally have multiple stores. Review the w_flux [README](https://github.com/Workiva/w_flux) for more information.
+We now have some actions to dispatch. Next, we need a store to contain our application's data. For this example, we only need one store. 
+
+**Note**: For larger applications, you will generally have multiple stores. Review the w_flux [README](https://github.com/Workiva/w_flux) for more information.
 
 **todo_store.dart**
 ```dart
