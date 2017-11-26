@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Dart & React
 description: Building a todo list from start to finish.
-date: 2017-11-20
+date: 2017-11-25
 images: ["http://www.leejamesrobinson.com/img/react-dart/banner.png"]
 categories:
   - code
