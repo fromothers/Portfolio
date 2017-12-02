@@ -95,4 +95,4 @@ Finally, let's apply this rule to our container element.
 
 ![Iowa State Animated Logo](/img/css-animations/isu-logo.gif)
 
-You can view the code and a live example on [CodePen](https://codepen.io/anon/pen/wPMjBE).
+You can view the code and a live example on [CodePen](https://codepen.io/leerob/pen/BmGZZQ?editors=1100).

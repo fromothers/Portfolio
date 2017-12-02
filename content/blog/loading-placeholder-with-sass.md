@@ -109,7 +109,7 @@ We can use the newly created mixin to change the width of all 10 children `div` 
 
 ![Loading Placeholder Final Result](/img/loading-placeholder/final-result.gif)
 
-You can view the code and a live example on [CodePen](https://codepen.io/anon/pen/XzRzpb?editors=1100). There's also a React library called [react-placeholder](https://github.com/buildo/react-placeholder) that achieves the same effect.
+You can view the code and a live example on [CodePen](https://codepen.io/leerob/pen/XzRzpb?editors=1100). There's also a React library called [react-placeholder](https://github.com/buildo/react-placeholder) that achieves the same effect.
 
 
 Further Reading:
