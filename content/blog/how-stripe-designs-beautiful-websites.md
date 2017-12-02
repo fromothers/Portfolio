@@ -41,7 +41,7 @@ Typography is arguably the most important part of your design since it's the med
 
 Let's see how we can make our font as crisp and clear as possible. First, we'll define our font family to be Camphor along with some fallback fonts. **Note:** Camphor is not free and should be purchased if you're planning to use it in production. However, I did find a [gist containing the font](https://gist.github.com/bdno86/d1f49b6f533df3f832b39d6cc3194303) which you can mess around with.
 
-We can utilize the `text-rendering` CSS property to allow us to choose quality over speed, as well as some vendor specific properties to make our font sharper. **Note:** This should work for Chrome, Safari, and Firefox on Mac.
+We can utilize the `text-rendering` CSS property to allow us to choose quality over speed, as well as some vendor specific properties to make our font sharper. **Note:** These should work for Chrome, Safari, and Firefox on Mac.
 
 ```css
 body {
@@ -53,7 +53,7 @@ body {
 ```
 #### Example
 
-In this example I apply `-webkit-font-smoothing` followed by `text-rendering`.
+In this example, I apply `-webkit-font-smoothing` followed by `text-rendering`.
 
 ![CSS Example](/img/stripe/css-example.gif)
 
@@ -73,7 +73,7 @@ button:hover {
 }
 ```
 
-This really makes it feel like the button is meant to be clicked. It's a wonderful experience. You can view the full code for the buttons [here](https://codepen.io/leerob/pen/bYQRpB) on CodePen.
+This really makes it feel like the button is meant to be clicked. It's a wonderful experience. You can view code to recreate the buttons [here](https://codepen.io/leerob/pen/bYQRpB) on CodePen.
 
 ### Color Palette
 
@@ -83,7 +83,7 @@ I personally love the color palette of Stripe's website. It's bright and grabs y
 
 ### Utilizing SVGs
 
-Something else that really stuck out to me was how high quality their images looked. This is because they use SVG ([Scalable Vector Graphic](https://svgontheweb.com/)) images instead of normal `.png` or `.jpg` files wherever possible. This has a multitude of benefits.
+Something else that really stuck out to me was how high quality their images looked. This is because they use SVG ([Scalable Vector Graphic](https://svgontheweb.com/)) images instead of normal `.png` or `.jpg` files whenever possible. This has a multitude of benefits.
 
 - Smaller file sizes
 - Allows the ability to animate the image using CSS
