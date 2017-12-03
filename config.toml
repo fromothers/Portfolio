@@ -26,11 +26,6 @@ disablePathToLower = true
 [params.seo]
   titleSeparator = "-"
 
-[params.opengraph]
-  [params.opengraph.facebook]
-    admins = ""
-    appid = ""
-
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -40,7 +35,6 @@ disablePathToLower = true
 
 [author.social]
   email = "lrobinson2011@gmail.com"
-  facebook = "LeeJamesRobinson"
   github = "leerob"
   instagram = "leeerob"
   twitter = "leeerob"
